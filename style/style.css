@@ -1,0 +1,65 @@
+
+*{
+    
+    font-family: 'Anton', sans-serif;
+font-family: 'Roboto', sans-serif;
+font-family: 'Rubik Glitch', system-ui;
+}
+
+
+nav > ul > li {
+
+  display: inline;
+  margin-right: 15px;
+  
+  
+}
+
+nav li > a{
+    text-decoration: none;
+}
+nav {
+
+    text-align: right;
+    margin-right: 10px;
+    font-size: 15px;
+    
+}
+footer{
+    text-align: center;
+    margin: 20px 20px;
+    
+}
+.article {
+    word-spacing:2px;
+    width: 100%;
+    margin: 5px auto;
+    padding: 15px 15px;
+    
+
+}
+
+.h1 {
+
+    text-align: center;
+    padding-bottom: 20px;
+    font-family: 'Anton', sans-serif;
+font-family: 'Rubik Glitch', system-ui;
+    
+}
+
+.header {
+    padding-bottom: 10px;
+    font-size: 30px;
+}
+    
+
+.top {
+ text-align: center;
+ background-position: center
+}
+
+#img  img {
+    object-position: right top;
+
+}
